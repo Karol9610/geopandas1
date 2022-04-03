@@ -6,7 +6,7 @@
 # In[9]:
 
 
-import geopandas  #pd.merge(product,customer,left_on='Product_name',right_on='Purchased_Product')
+import geopandas  
 import pandas as pd
 import requests  
 from bs4 import BeautifulSoup # PARSE HTML
